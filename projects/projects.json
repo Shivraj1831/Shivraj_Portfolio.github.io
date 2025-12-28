@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Hostel Student Credit Debit Management System",
+    "desc": "Hostel Student Credit–Debit Management System is a simple application designed to track and manage students’ financial transactions within a hostel. It records credits and debits for each student, maintains accurate balance details, and generates clear reports for transparency. The system helps hostel administrators reduce manual errors, save time, and ensure efficient financial management.",
+    "image": "Project_logo",
+    
+     "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/notystack-android"
+  }
+},
+  {
+    "name": "Coffee Shop Website",
+    "desc": "This project is a responsive Coffee Shop website built using HTML, CSS, and JavaScript. It showcases the coffee shop’s brand with an attractive layout, menu display, and smooth user interactions. HTML structures the content, CSS styles the pages for a modern and visually appealing design, and JavaScript adds interactivity such as navigation effects and dynamic elements. The website provides users with information about the shop, menu items, and contact details, delivering a clean and user-friendly browsing experience..",
+    "image": "Project_logo",
+    
+     "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/notystack-android"
+   } 
+  }   
+   
+  
+  
+]
